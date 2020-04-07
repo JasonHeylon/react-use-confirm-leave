@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-use-confirm-leave/static/css/main.b18535c0.chunk.css",
+    "main.js": "/react-use-confirm-leave/static/js/main.ddf864d3.chunk.js",
+    "main.js.map": "/react-use-confirm-leave/static/js/main.ddf864d3.chunk.js.map",
+    "runtime-main.js": "/react-use-confirm-leave/static/js/runtime-main.39b43354.js",
+    "runtime-main.js.map": "/react-use-confirm-leave/static/js/runtime-main.39b43354.js.map",
+    "static/js/2.d0ba9ff3.chunk.js": "/react-use-confirm-leave/static/js/2.d0ba9ff3.chunk.js",
+    "static/js/2.d0ba9ff3.chunk.js.map": "/react-use-confirm-leave/static/js/2.d0ba9ff3.chunk.js.map",
+    "index.html": "/react-use-confirm-leave/index.html",
+    "precache-manifest.382fdc4cc9caad31fe5f7ea6f52198f3.js": "/react-use-confirm-leave/precache-manifest.382fdc4cc9caad31fe5f7ea6f52198f3.js",
+    "service-worker.js": "/react-use-confirm-leave/service-worker.js",
+    "static/css/main.b18535c0.chunk.css.map": "/react-use-confirm-leave/static/css/main.b18535c0.chunk.css.map",
+    "static/js/2.d0ba9ff3.chunk.js.LICENSE.txt": "/react-use-confirm-leave/static/js/2.d0ba9ff3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39b43354.js",
+    "static/js/2.d0ba9ff3.chunk.js",
+    "static/css/main.b18535c0.chunk.css",
+    "static/js/main.ddf864d3.chunk.js"
+  ]
+}
